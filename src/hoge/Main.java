@@ -7,7 +7,6 @@ public class Main {
 		System.out.println("hogehoge");
 		//hoge
 		//hoge
-		//git commitの取り消し
 
 	}
 
