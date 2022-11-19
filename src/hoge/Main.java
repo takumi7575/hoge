@@ -9,7 +9,8 @@ public class Main {
 		//hoge
 		//git commitの取り消し
 		//作業用ブランチの作成
-
+		
+		System.out.println("pull request");
 	}
 
 }
